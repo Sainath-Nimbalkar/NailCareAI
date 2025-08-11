@@ -3,3 +3,4 @@ User uploads an image of Nail.
 System Predicts the disease.
 Uses an interactive interface.
 
+User Friendly interface
